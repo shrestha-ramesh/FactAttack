@@ -1,4 +1,4 @@
-# FactAttack-IOS
+# FactAttack-iOS
 
 ## Project Description
 This porject is a simple quiz app for ios platform. The app consist of a home page where users are asked questions by a random
